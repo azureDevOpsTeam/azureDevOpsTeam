@@ -3,7 +3,7 @@
 </p>
 <span align="center">
   
-  <h3 style="text-align:center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25" /> im Shahram </h3>
+  <h3 style="text-align:center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25" /> WellCome </h3>
     
 </span>
     
